@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Контейнеры»
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/u1n7l119yxp1fxq7?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ajs-containers-map)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
